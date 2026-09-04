@@ -34,17 +34,17 @@ Takes a first-time woman entrepreneur through every step of NY LLC formation and
 
 ## Features
 
-- ✅ 5-step guided wizard
-- ✅ Bilingual (English / Spanish)
-- ✅ Articles of Organization generator (DOS-1336-f format)
-- ✅ Single-member and multi-member Operating Agreement templates
-- ✅ Interactive WBE/MWBE 22-item checklist with localStorage persistence
-- ✅ County-specific publication cost estimates (all 62 NY counties)
-- ✅ 120-day publication deadline calculator
-- ✅ Full real cost breakdown (no hidden surprises)
-- ✅ Zero dependencies — pure Cloudflare Worker, no external CDN
-- ✅ Mobile-first, print-optimized
-- ✅ Legal disclaimers on every screen
+- 5-step guided wizard
+- Bilingual (English / Spanish)
+- Articles of Organization generator (DOS-1336-f format)
+- Single-member and multi-member Operating Agreement templates
+- Interactive WBE/MWBE 22-item checklist with localStorage persistence
+- County-specific publication cost estimates (all 62 NY counties)
+- 120-day publication deadline calculator
+- Full real cost breakdown (no hidden surprises)
+- Zero dependencies — pure Cloudflare Worker, no external CDN
+- Mobile-first, print-optimized
+- Legal disclaimers on every screen
 
 ## Architecture
 
@@ -68,11 +68,11 @@ This tool provides general legal information only — not legal advice. No attor
 
 ---
 
-## ⚡ Support the Mission
+## Support the Mission
 
 This is free, ad-free, independent infrastructure — no VC, no gov funding, no strings. If it served you, a tip keeps it alive and funds the next tool.
 
-[![Donate via SkyGive](https://img.shields.io/badge/💜_Donate_via_SkyGive-8A5CF6?style=for-the-badge&logoColor=white)](https://donate.skygive.app/)
-[![Lightning](https://img.shields.io/badge/⚡_tips@skygive.app-F7931A?style=for-the-badge&logo=lightning&logoColor=white)](https://donate.skygive.app/)
+[![Donate via SkyGive](https://img.shields.io/badge/Donate_via_SkyGive-8A5CF6?style=for-the-badge&logoColor=white)](https://donate.skygive.app/)
+[![Lightning](https://img.shields.io/badge/tips@skygive.app-F7931A?style=for-the-badge&logo=lightning&logoColor=white)](https://donate.skygive.app/)
 
-<sub>🧡 Sovereign Lightning + on-chain via SkyGive. Your sats fund uptime, not ads.</sub>
+<sub> Sovereign Lightning + on-chain via SkyGive. Your sats fund uptime, not ads.</sub>
